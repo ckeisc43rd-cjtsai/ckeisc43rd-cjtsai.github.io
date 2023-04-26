@@ -1,2 +1,2 @@
 # TsengEmpire
-https://ch-tsai.github.io/TsengEmpire/
+https://ch-tsai.github.io
