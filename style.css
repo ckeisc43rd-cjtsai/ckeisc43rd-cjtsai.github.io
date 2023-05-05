@@ -12,5 +12,5 @@
     width: 100px;
     height: 100px;
     background-color: rgb(255, 255, 255);
-    animation: ro 2s infinite linear;
+    animation: ro 1s infinite linear;
   }
