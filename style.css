@@ -1,0 +1,16 @@
+@keyframes ro{
+    from{
+      transform: rotate(0deg);
+    }
+    to{
+      transform: rotate(360deg);
+    }
+  }
+  
+  
+  .rota{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(255, 255, 255);
+    animation: ro 2s infinite linear;
+  }
